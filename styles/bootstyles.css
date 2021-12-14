@@ -53,6 +53,7 @@ p {
     padding-bottom: 50px;
 }
 .tabpage {
+    color: black;
     padding: 0px;
     text-decoration: none;
 }
