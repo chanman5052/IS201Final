@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #d1d5d9;
+}
+.resume {
+    font-weight: bold;
+    font-size: large;
+}
+.resume-info {
+    font-style: italic;
+    font-size: medium;
+    font-weight: normal;
+}
+.resume-header {
+    text-align: center;
+}
+.anchor-links {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+.anchor-links:hover {
+    color: white;
+    font-weight: bolder;
+}
+.resume-pic {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
